@@ -1,0 +1,4 @@
+module load python/3.6.3
+export PYTHONPATH=${PYTHONPATH}:/gpfs/dell2/emc/modeling/noscrub/gwv/py/lib/python:/usrx/local/nceplibs/dev/lib/pygrib/lib/python3.6/site-packages/:/gpfs/dell2/emc/modeling/noscrub/Jacob.Carley/python/lib/python3.6/site-packages:/gpfs/dell2/emc/verification/save/Logan.Dawson/python
+
+

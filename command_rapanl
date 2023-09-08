@@ -1,0 +1,1 @@
+/gpfs/dell2/emc/verification/noscrub/emc.metplus/met/10.0.0/exec/regrid_data_plane rap.t02z.awp130pgrbf00.grib2 rap.t02z.awp130pgrbf00.grib2 rap.t02z.awp130pgrbf00.nc -field 'name="CAPE"; level="L0";' -field 'name="CAPE"; level="P90-0";' -field 'name="CIN"; level="L0";' -field 'name="CIN"; level="P90-0";'
